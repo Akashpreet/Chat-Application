@@ -1,0 +1,53 @@
+[33mcommit 6dd5997a4d25f9d95da98e76b476cfe49a5288e6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Akashpreet <akash1234560987@gmail.com>
+Date:   Fri Mar 15 14:35:56 2024 +0530
+
+    Deployment
+
+[33mcommit 76a9ebc1da11872630299fe7ed53e4420d386925[m
+Author: Akashpreet <akash1234560987@gmail.com>
+Date:   Fri Mar 15 14:33:35 2024 +0530
+
+    Deployment
+
+[33mcommit 5e2c5ec9d5d5ff818bd423ab8e4aafe30b58cccc[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Burak Orkmez <burakorkmezz@gmail.com>
+Date:   Wed Jan 31 12:22:44 2024 +0300
+
+    Readme added
+
+[33mcommit abdba01f9da20d3c008d74e1e1d759e35c8f5c04[m
+Author: Burak Orkmez <burakorkmezz@gmail.com>
+Date:   Wed Jan 31 04:36:02 2024 +0300
+
+    Socket url updated
+
+[33mcommit e2144acdc2a3e4c5f775dd70899d4fdf191ef7d4[m
+Author: Burak Orkmez <burakorkmezz@gmail.com>
+Date:   Wed Jan 31 04:14:57 2024 +0300
+
+    Deployment
+
+[33mcommit 66a6766834be796eeaa454d4e39ee5b47252cda1[m
+Author: Burak Orkmez <burakorkmezz@gmail.com>
+Date:   Wed Jan 31 04:00:24 2024 +0300
+
+    4th part completed - socket
+
+[33mcommit cecf5053efc969d916fe4c311bc15c1bc557653f[m
+Author: Burak Orkmez <burakorkmezz@gmail.com>
+Date:   Tue Jan 30 04:29:53 2024 +0300
+
+    3rd part completed - connecting frontend and backend
+
+[33mcommit 7aadf4f5e19a7dd80cf4fa26dd416d803ac3a3e0[m
+Author: Burak Orkmez <burakorkmezz@gmail.com>
+Date:   Tue Jan 30 01:26:05 2024 +0300
+
+    2nd part completed - ui design
+
+[33mcommit 9180cd347db0369e18189dde4883bc669baadea0[m
+Author: Burak Orkmez <burakorkmezz@gmail.com>
+Date:   Mon Jan 29 23:30:50 2024 +0300
+
+    1st part completed - backend
